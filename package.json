@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "envia comando abre e fecha cancela",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com@ebersonm"
+    "registry": "https://npm.pkg.github.com/@ebersonm"
   },
   "node-red" : {
     "nodes": {
