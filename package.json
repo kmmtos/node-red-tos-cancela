@@ -1,6 +1,6 @@
 {
   "name": "@kmmtos/node-red-tos-cancela",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "envia comando abre e fecha cancela",
   "main": "cancela.js",
   "repository":{
