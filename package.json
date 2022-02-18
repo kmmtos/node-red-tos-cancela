@@ -1,10 +1,10 @@
 {
-  "name": "node-red-tos-cancela",
+  "name": "@ebersonm/node-red-tos-cancela",
   "version": "1.0.0",
   "description": "envia comando abre e fecha cancela",
   "main": "cancela.js",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@ebersonm"
+    "registry": "https://npm.pkg.github.com/"
   },
   "node-red" : {
     "nodes": {
