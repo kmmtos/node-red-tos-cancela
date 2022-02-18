@@ -7,7 +7,7 @@
      "url" : "https://github.com/kmmtos/node-red-tos-cancela"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@ebersonm"
+    "registry": "https://npm.pkg.github.com/@kmmtos"
   },
   "node-red" : {
     "nodes": {
