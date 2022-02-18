@@ -1,10 +1,10 @@
 {
-  "name": "node-red-tos-cancela",
+  "name": "@kmmtos/node-red-tos-cancela",
   "version": "1.0.0",
   "description": "envia comando abre e fecha cancela",
   "main": "cancela.js",
   "repository":{
-     "url" : "https://github.com/kmmtos/node-red-tos-cancela"
+     "url" : "https://github.com/kmmtos/node-red-tos-cancela.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@kmmtos"
