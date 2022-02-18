@@ -114,5 +114,5 @@ module.exports = function (RED) {
       done();
     });
   }
-  RED.nodes.registerType("cancelaTOS", Cancela);
+  RED.nodes.registerType("cancela TOS", Cancela);
 };
